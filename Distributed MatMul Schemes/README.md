@@ -1,4 +1,4 @@
-## Distributed Matrix Multiplication Schemes
+ Distributed Matrix Multiplication Schemes
 
 The following distributed matrix multiplication schemes are compared in the above files
 
