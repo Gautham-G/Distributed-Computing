@@ -1,1 +1,1 @@
-## Programs of use to basic distributed computing schemes are discussed
+## Programs of use to basic distributed computing schemes 
